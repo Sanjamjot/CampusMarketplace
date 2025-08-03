@@ -7,7 +7,7 @@ const AboutUs = () => {
     {
       id: 1,
       name: "Sanjamjot Singh",
-      email: "gmohindru_be22@thapr.edu",
+      email: "sbindra_be22@thapr.edu",
     }
   ];
 
@@ -97,4 +97,5 @@ const AboutUs = () => {
 };
 
 export default AboutUs;
+
 
