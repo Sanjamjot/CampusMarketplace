@@ -6,29 +6,9 @@ const AboutUs = () => {
   const teamMembers = [
     {
       id: 1,
-      name: "Geetansh Mohindru",
+      name: "Sanjamjot Singh",
       email: "gmohindru_be22@thapr.edu",
-    },
-    {
-      id: 2,
-      name: "Naman Kumar",
-      email: "nkumar_be22@thapar.edu",
-    },
-    {
-      id: 3,
-      name: "Geetika Goyal",
-      email: "ggoyal_be22@thapar.edu",
-    },
-    {
-      id: 4,
-      name: "Nandini Jain",
-      email: "njain_be22@thapar.edu",
-    },
-    {
-      id: 5,
-      name: "Pooja Maheshwari",
-      email: "pmaheshwari_be22@thapar.edu",
-    },
+    }
   ];
 
   const styles = {
@@ -117,3 +97,4 @@ const AboutUs = () => {
 };
 
 export default AboutUs;
+
